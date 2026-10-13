@@ -1,0 +1,1 @@
+# Sertificate-odrazovanie
