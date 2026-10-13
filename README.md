@@ -1,2 +1,2 @@
 # Сертификаты образования
-[Сертификат (PDF)](images/sertificate0.pdf)
+[Сертификат IT системы и операционная система Linux (PDF)](images/sertificate0.pdf)
